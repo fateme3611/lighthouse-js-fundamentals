@@ -7,7 +7,7 @@ for(let i = 100; i<=200; i++){
         console.log("Lighthouse");
     }
     else if(i%3===0){
-        console.log ("loopy");
+        console.log ("Loopy");
     }
     else console.log(i);
     }
